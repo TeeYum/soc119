@@ -1,3 +1,7 @@
-       <h3>Right Panel: Push</h3>
-        <p>This panel is positioned on the right with the push display mode. The panel markup is <em>after</em> the header, content and footer in the source order.</p>
-        <p>To close, click off the panel, swipe left or right, hit the Esc key, or use the button below:</p>
+       <h3>Info:</h3>
+        <p>This is a custom web-based app that leverages Twitter or Instagram for back channel conversations about "You Can't Say That," a television series about the work of <a href="http://en.wikipedia.org/wiki/Sam_Richards_(sociologist)">Sam Richards</a>, Laurie Mulvey and the team of facilitators at <a href="http://www.worldinconversation.org/">World in Conversation</a> at Penn State University.</p>
+        
+        <iframe src="//player.vimeo.com/video/45335463?title=0&amp;byline=0&amp;portrait=0" width="225" height="160" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="http://vimeo.com/45335463">You Can't Say That - Trailer</a>.</p>
+        
+        <p>In the future, Soc119 will be filmed as part of a television series. Prior to that, this site will be used as a pilot for the app that will accompany the television program.</p>
+        
