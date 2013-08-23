@@ -1,0 +1,7 @@
+        <h3>Past Challenges</h3>
+
+          <p><strong>Challenge 1:</strong>  <a href="javascript:challengeNumber=0;build_challenge();close_panel()">Do your eat your peas with honey?</a></p>
+          <p><strong>Challenge 2:</strong>  <a href="javascript:challengeNumber=1;build_challenge();close_panel()">Is the Bugatti Veyron SS the world's fastest road-legal car?</a></p>
+          <p><strong>Challenge 3:</strong>  <a href="javascript:challengeNumber=2;build_challenge();close_panel()">Bugatti Veyron SS vs. McClaren P1?</a></p>
+          
+
