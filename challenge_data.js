@@ -1,5 +1,5 @@
       //     
-	  var challengeNumber = 2;
+	  var challengeNumber = 1;
 	 
 	  /* Challenge Variables */ 
       var challenge = [
