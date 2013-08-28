@@ -22,7 +22,7 @@
       html += '<div id="challenge">';
 
       // QUESTION AND MEDIA HEADER
-      html += '<p><span class="question">Q:</span>' + challenge[challengeNumber].question + '</p>';
+      html += '<p class="statement"><span class="question">Q:</span>' + challenge[challengeNumber].question + '</p>';
 	
 	  //Video or image presentation here-->
       if (challenge[challengeNumber].media == "video") {
