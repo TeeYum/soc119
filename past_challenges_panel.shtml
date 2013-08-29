@@ -1,5 +1,5 @@
         <h3>Past Challenges:</h3>
-        <p>(Red challenges are mandatory)</p>
+        <p style="color:#FF0000">(Red challenges are mandatory)</p>
 
           <p style="color:#FF0000"><strong>Challenge 1:</strong><a href="javascript:challengeNumber=1;build_challenge();close_panel()">Pose with someone you do NOT know and make the photo look like your friend or family. </a></p>
           <p><strong>Challenge 2:</strong><a href="javascript:challengeNumber=2;build_challenge();close_panel()">President Obama needs to speak about race relations more often. Agree or Disagree.</a></p>
