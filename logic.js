@@ -31,7 +31,7 @@
         html += '</div>';
       }
        if (challenge[challengeNumber].media == "image") {
-        html += '<center><img src="' + challenge[challengeNumber].imagesource + '" alt="' + challenge[challengeNumber].imagedescription +'" /></center>';
+        html += '<center><a href="' + challenge[challengeNumber].imageurl + '"><img src="' + challenge[challengeNumber].imagesource + '" alt="' + challenge[challengeNumber].imagedescription +'" /></a></center>';
       }
         html += '</div>';  //End Challenge Div-->
 		return html;
