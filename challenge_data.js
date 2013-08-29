@@ -1,5 +1,5 @@
       //     
-	  var challengeNumber = 1;
+	  var challengeNumber = 3;
 	 
 	  /* Challenge Variables */ 
       var challenge = [
@@ -39,6 +39,19 @@
          answers:["agree", "disagree"],
          answertags:["agree", "disagree"],
          challengetag:"ycst002",
+         primarytag:"soc119"},
+         //Stop Copying the Array Here
+         
+         //Start Copying the Array Here
+        {challengetype: "structured",
+         question:"About what percentage of the people throughout the world who are NOT Americans would like to permanently move to the U.S.?  Take a picture or make a video that supports your conclusion.",
+         media:"none", //options are "image", "video", or "none" 
+         videosource:"//www.youtube.com/embed/SELDTUaHRxQ",
+         imagesource:"http://graphics8.nytimes.com/images/2013/08/28/us/OBAMA-1/OBAMA-1-articleLarge.jpg",
+         imagedescription:"President, Not Preacher, but Speaking More on Race",
+         answers:["A: 83.5", "B: 59.8", "C: 33.4", "D: 14.9", "E: 1.5"],
+         answertags:["A", "B", "C", "D", "E"],
+         challengetag:"ycst003",
          primarytag:"soc119"},
          //Stop Copying the Array Here
          
