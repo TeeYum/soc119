@@ -35,6 +35,7 @@
          media:"image", //options are "image", "video", or "none" 
          videosource:"//www.youtube.com/embed/SELDTUaHRxQ",
          imagesource:"http://graphics8.nytimes.com/images/2013/08/28/us/OBAMA-1/OBAMA-1-articleLarge.jpg",
+         imageurl:"http://www.nytimes.com/2013/08/28/us/politics/president-not-preacher-but-speaking-more-on-race.html?hp",
          imagedescription:"President, Not Preacher, but Speaking More on Race",
          answers:["agree", "disagree"],
          answertags:["agree", "disagree"],
