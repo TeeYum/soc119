@@ -63,7 +63,7 @@
          imagesource:"http://graphics8.nytimes.com/images/2013/08/28/us/OBAMA-1/OBAMA-1-articleLarge.jpg",
          imagedescription:"President, Not Preacher, but Speaking More on Race",
          answers:["Submit Photo or Video"],
-         answertags:[""],
+         answertags:["ancestry"],
          challengetag:"ycst004",
          primarytag:"soc119"},
          //Stop Copying the Array Here
