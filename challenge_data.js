@@ -55,5 +55,18 @@
          primarytag:"soc119"},
          //Stop Copying the Array Here
          
+          //Start Copying the Array Here
+        {challengetype: "freeform",
+         question:"Show us something from your life that clearly identifies or reflects your racial/ethnic ancestry.",
+         media:"none", //options are "image", "video", or "none" 
+         videosource:"//www.youtube.com/embed/SELDTUaHRxQ",
+         imagesource:"http://graphics8.nytimes.com/images/2013/08/28/us/OBAMA-1/OBAMA-1-articleLarge.jpg",
+         imagedescription:"President, Not Preacher, but Speaking More on Race",
+         answers:["Submit Photo or Video"],
+         answertags:[""],
+         challengetag:"ycst004",
+         primarytag:"soc119"},
+         //Stop Copying the Array Here
+         
          
        ];
