@@ -41,7 +41,7 @@
     function build_footer(){
 	  var html = '<div data-role="navbar" data-theme="c" class="custom-navbar">';
 	  html += '<ul>';
-      html += '<li><a href="https://twitter.com/search?q=%23' + challenge[challengeNumber].primarytag.toString() + '%20%23' + challenge[challengeNumber].challengetag.toString() + '&src=hash" target="_blank">Follow the Conversation</a></li>';
+      html += '<li><a href="https://mobile.twitter.com/search?q=%23' + challenge[challengeNumber].primarytag.toString() + '%20%23' + challenge[challengeNumber].challengetag.toString() + '&src=hash" target="_blank">Follow the Conversation</a></li>';
       //html += '<li><a href="http://web.stagram.com/tag/' + challenge[challengeNumber].challengetag.toString() + '/">Instagram</a></li>';
 	  html += '</ul>';
 	  html += '</div>';
