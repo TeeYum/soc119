@@ -1,5 +1,5 @@
       //     
-	  var challengeNumber = 3;
+	  var challengeNumber = 5;
 	 
 	  /* Challenge Variables */ 
       var challenge = [
@@ -66,6 +66,19 @@
          answers:["Submit Photo or Video"],
          answertags:["ancestry"],
          challengetag:"ycst004",
+         primarytag:"soc119"},
+         //Stop Copying the Array Here
+         
+         //Start Copying the Array Here
+        {challengetype: "freeform",
+         question:"What is your biggest 'fail' related to race and or culture?",
+         media:"image", //options are "image", "video", or "none" 
+         videosource:"//www.youtube.com/embed/SELDTUaHRxQ",
+         imagesource:"http://farm3.staticflickr.com/2035/2371224505_208c8589a1.jpg",
+         imagedescription:"ALL ABOARD THE FAILBOAT",
+         answers:["Submit Response!"],
+         answertags:["fail"],
+         challengetag:"ycst005",
          primarytag:"soc119"},
          //Stop Copying the Array Here
          
