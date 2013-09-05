@@ -1,5 +1,5 @@
       //     
-	  var challengeNumber = 5;
+	  var challengeNumber = 6;
 	 
 	  /* Challenge Variables */ 
       var challenge = [
@@ -79,6 +79,19 @@
          answers:["Submit Response!"],
          answertags:["fail"],
          challengetag:"ycst005",
+         primarytag:"soc119"},
+         //Stop Copying the Array Here
+         
+         //Start Copying the Array Here
+        {challengetype: "freeform",
+         question:"If you could talk to 'The Man' what would you ask him?",
+         media:"image", //options are "image", "video", or "none" 
+         videosource:"//www.youtube.com/embed/SELDTUaHRxQ",
+         imagesource:"http://cdn2.business2community.com/wp-content/uploads/2013/01/shutterstock_774486401.jpg",
+         imagedescription:"The Man is our collective understanding of corporate and power cultures",
+         answers:["Submit Response!"],
+         answertags:["TheMan"],
+         challengetag:"ycst006",
          primarytag:"soc119"},
          //Stop Copying the Array Here
          
