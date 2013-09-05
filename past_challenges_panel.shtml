@@ -6,6 +6,7 @@
           <p><strong>Challenge 3:</strong><a href="javascript:challengeNumber=3;build_challenge();close_panel()">About what percentage of the people throughout the world who are NOT Americans would like to permanently move to the U.S.?</a></p>
           <p><strong>Challenge 4:</strong><a href="javascript:challengeNumber=4;build_challenge();close_panel()">Show us something from your life that clearly identifies or reflects your racial/ethnic ancestry.</a></p>
           <p><strong>Challenge 5:</strong><a href="javascript:challengeNumber=5;build_challenge();close_panel()">What is your biggest 'fail' that is related to race and/or culture?.</a></p>
+          <p style="color:#FF0000"><strong>Challenge 6:</strong><a href="javascript:challengeNumber=6;build_challenge();close_panel()">If you could talk to "The Man" what would you ask him?</a></p>
           
           <strong><a href="http://soc119.com/">[Go to Current Challenge]</a></strong>
           
