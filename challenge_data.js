@@ -115,7 +115,7 @@
          media:"image", //options are "image", "video", or "none" 
          videosource:"//www.youtube.com/embed/SELDTUaHRxQ",
          imagesource:"http://thumbnails.visually.netdna-cdn.com/syria-damascus-areas-of-influence-and-areas-reportedly-affected-by-21-august-chemical-attack_5227c5a37c93a_w1163.png",
-         imageurl:"http://blog.visual.ly/syria-visualizations/"
+         imageurl:"http://blog.visual.ly/syria-visualizations/",
          imagedescription:"Syrian Conflict",
          answers:["Submit Response!"],
          answertags:["syria"],
