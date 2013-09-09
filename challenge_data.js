@@ -1,5 +1,5 @@
       //     
-	  var challengeNumber = 6;
+	  var challengeNumber = 7;
 	 
 	  /* Challenge Variables */ 
       var challenge = [
@@ -92,6 +92,32 @@
          answers:["Submit Response!"],
          answertags:["TheMan"],
          challengetag:"ycst006",
+         primarytag:"soc119"},
+         //Stop Copying the Array Here
+         
+         //Start Copying the Array Here
+        {challengetype: "freeform",
+         question:"What can we all learn from #thehubisnotaplayground ?",
+         media:"image", //options are "image", "video", or "none" 
+         videosource:"//www.youtube.com/embed/SELDTUaHRxQ",
+         imagesource:"http://onwardstate.com/wp-content/uploads/2013/09/BTb1u9oIcAA_6i1.jpeg",
+         imagedescription:"#thehubisnotaplayground",
+         answers:["Submit Response!"],
+         answertags:["thehubisnotaplayground"],
+         challengetag:"ycst007",
+         primarytag:"soc119"},
+         //Stop Copying the Array Here
+         
+         //Start Copying the Array Here
+        {challengetype: "freeform",
+         question:"When I think of what is going on in Syria my attention turns to...",
+         media:"image", //options are "image", "video", or "none" 
+         videosource:"//www.youtube.com/embed/SELDTUaHRxQ",
+         imagesource:"http://thumbnails.visually.netdna-cdn.com/syria-damascus-areas-of-influence-and-areas-reportedly-affected-by-21-august-chemical-attack_5227c5a37c93a_w1163.png",
+         imagedescription:"Syrian Conflict",
+         answers:["Submit Response!"],
+         answertags:["syria"],
+         challengetag:"ycst008",
          primarytag:"soc119"},
          //Stop Copying the Array Here
          
