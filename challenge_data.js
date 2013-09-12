@@ -1,5 +1,5 @@
       //     
-	  var challengeNumber = 7;
+	  var challengeNumber = 10;
 	 
 	  /* Challenge Variables */ 
       var challenge = [
@@ -120,6 +120,32 @@
          answers:["Submit Response!"],
          answertags:["syria"],
          challengetag:"ycst008",
+         primarytag:"soc119"},
+         //Stop Copying the Array Here
+         
+         //Start Copying the Array Here
+        {challengetype: "freeform",
+         question:"What's your memory of 9/11?",
+         media:"image", //options are "image", "video", or "none" 
+         videosource:"//www.youtube.com/embed/SELDTUaHRxQ",
+         imagesource:"http://cdn0.sbnation.com/imported_assets/541187/9-11-01_medium.jpg",
+         imagedescription:"Never Forget",
+         answers:["Submit Response!"],
+         answertags:["911"],
+         challengetag:"ycst009",
+         primarytag:"soc119"},
+         //Stop Copying the Array Here
+         
+         //Start Copying the Array Here
+        {challengetype: "freeform",
+         question:"What does 9/11 mean to you today?",
+         media:"image", //options are "image", "video", or "none" 
+         videosource:"//www.youtube.com/embed/SELDTUaHRxQ",
+         imagesource:"http://www.osu.edu/assets/images/features/content/2011-remembering9-11.jpg",
+         imagedescription:"Syrian Conflict",
+         answers:["Submit Response!"],
+         answertags:["911"],
+         challengetag:"ycst010",
          primarytag:"soc119"},
          //Stop Copying the Array Here
          
