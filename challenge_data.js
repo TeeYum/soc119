@@ -151,7 +151,7 @@
          
           //Start Copying the Array Here
         {challengetype: "freeform",  // options are "freeform", "structured"
-         question:"What's does this tell you?",
+         question:"What does this video tell you?",
          media:"video", //options are "image", "video", or "none" 
          videosource:"//www.youtube.com/embed/SoRiYOplcwY",
          imagesource:"http://yourimgurlhere.com", //image URLs go here
