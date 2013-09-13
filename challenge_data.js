@@ -153,10 +153,10 @@
         {challengetype: "freeform",  // options are "freeform", "structured"
          question:"What's does this tell you?",
          media:"video", //options are "image", "video", or "none" 
-         videosource:"http://www.youtube.com/watch?v=SoRiYOplcwYm",
+         videosource:"//www.youtube.com/embed/SoRiYOplcwY",
          imagesource:"http://yourimgurlhere.com", //image URLs go here
          imagedescription:"thosehatemuslim", //this is the info that will accompany any photo
-         answers:["Submit Response"],//these are your answer options - you can name and call them anything
+         answers:["Submit Response!"],//these are your answer options - you can name and call them anything
          answertags:["muslim"],//these are the tags that accompany the answer choice IF structured question is selected
          challengetag:"ycst011",//tag associated with the challenge
          primarytag:"soc119"},//this should always be soc119
