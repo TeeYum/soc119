@@ -153,7 +153,7 @@
         {challengetype: "freeform",  // options are "freeform", "structured"
          question:"What's does this tell you?",
          media:"video", //options are "image", "video", or "none" 
-         videosource:"//www.youtube.com/watch?v=SoRiYOplcwYm",
+         videosource:"http://www.youtube.com/watch?v=SoRiYOplcwYm",
          imagesource:"http://yourimgurlhere.com", //image URLs go here
          imagedescription:"thosehatemuslim", //this is the info that will accompany any photo
          answers:["Submit Response"],//these are your answer options - you can name and call them anything
