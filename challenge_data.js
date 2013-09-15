@@ -1,5 +1,5 @@
       //     
-	  var challengeNumber = 11;
+	  var challengeNumber = 13;
 	 
 	  /* Challenge Variables */ 
       var challenge = [
@@ -159,6 +159,32 @@
          answers:["Submit Response!"],//these are your answer options - you can name and call them anything
          answertags:["muslim"],//these are the tags that accompany the answer choice IF structured question is selected
          challengetag:"ycst011",//tag associated with the challenge
+         primarytag:"soc119"},//this should always be soc119
+		 //Stop Copying the Array Here
+		 
+		     //Start Copying the Array Here
+        {challengetype: "freeform",  // options are "freeform", "structured"
+         question:"Where do you feel most safe?",
+         media:"image", //options are "image", "video", or "none" 
+         videosource:"//www.yourvideoembedlinkhere.com",
+         imagesource:"http://www.advicehow.com/wp-content/uploads/2012/06/Saftey-Net-Profiles-Google-Analytics.jpg", //image URLs go here
+         imagedescription:"safety", //this is the info that will accompany any photo
+         answers:["always", "sometimes", "never"],//these are your answer options - you can name and call them anything
+         answertags:["always", "sometimes", "never"],//these are the tags that accompany the answer choice IF structured question is selected
+         challengetag:"ycst012",//tag associated with the challenge
+         primarytag:"soc119"},//this should always be soc119
+		 //Stop Copying the Array Here
+		 
+		      //Start Copying the Array Here
+        {challengetype: "freeform",  // options are "freeform", "structured"
+         question:"If there was no discrimination in the world, what would you see that you don't see now?",
+         media:"image", //options are "image", "video", or "none" 
+         videosource:"//www.yourvideoembedlinkhere.com",
+         imagesource:"http://acelebrationofwomen.org/wp-content/uploads/2013/05/women_discrimination.jpg", //image URLs go here
+         imagedescription:"safety", //this is the info that will accompany any photo
+         answers:["always", "sometimes", "never"],//these are your answer options - you can name and call them anything
+         answertags:["always", "sometimes", "never"],//these are the tags that accompany the answer choice IF structured question is selected
+         challengetag:"ycst013",//tag associated with the challenge
          primarytag:"soc119"},//this should always be soc119
 		 //Stop Copying the Array Here
          
