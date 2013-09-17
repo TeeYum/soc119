@@ -177,10 +177,10 @@
 		 
 		      //Start Copying the Array Here
         {challengetype: "freeform",  // options are "freeform", "structured"
-         question:"Chris Kim The Swag",
+         question:"If there was no discrimination in the world, what would you see that you don't see now?",
          media:"image", //options are "image", "video", or "none" 
          videosource:"//www.yourvideoembedlinkhere.com",
-         imagesource:"http://s13.postimg.org/ec2avpjt3/1239428_10151798929415699_1685955317_n.jpg", //image URLs go here
+         imagesource:"http://acelebrationofwomen.org/wp-content/uploads/2013/05/women_discrimination.jpg", //image URLs go here
          imagedescription:"safety", //this is the info that will accompany any photo
          answers:["always", "sometimes", "never"],//these are your answer options - you can name and call them anything
          answertags:["always", "sometimes", "never"],//these are the tags that accompany the answer choice IF structured question is selected
