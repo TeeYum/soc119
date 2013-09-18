@@ -1,5 +1,5 @@
       //     
-	  var challengeNumber = 14;
+	  var challengeNumber = 15;
 	 
 	  /* Challenge Variables */ 
       var challenge = [
@@ -198,6 +198,19 @@
          answers:["always", "sometimes", "never"],//these are your answer options - you can name and call them anything
          answertags:["always", "sometimes", "never"],//these are the tags that accompany the answer choice IF structured question is selected
          challengetag:"ycst014",//tag associated with the challenge
+         primarytag:"soc119"},//this should always be soc119
+		 //Stop Copying the Array Here
+		 
+		   //Start Copying the Array Here
+        {challengetype: "freeform",  // options are "freeform", "structured"
+         question:"The first Indian American Miss America. Reflections?",
+         media:"image", //options are "image", "video", or "none" 
+         videosource:"//www.youtube.com/embed/JzOJ3GtfTgM",
+         imagesource:"http://aze.az/photo/420_nina_davuluri_miss_USA_1.jpg", //image URLs go here
+         imagedescription:"missamerica", //this is the info that will accompany any photo
+         answers:["always", "sometimes", "never"],//these are your answer options - you can name and call them anything
+         answertags:["always", "sometimes", "never"],//these are the tags that accompany the answer choice IF structured question is selected
+         challengetag:"ycst015",//tag associated with the challenge
          primarytag:"soc119"},//this should always be soc119
 		 //Stop Copying the Array Here
          
