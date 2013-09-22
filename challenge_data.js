@@ -1,5 +1,5 @@
       //     
-	  var challengeNumber = 15;
+	  var challengeNumber = 18;
 	 
 	  /* Challenge Variables */ 
       var challenge = [
@@ -211,6 +211,48 @@
          answers:["always", "sometimes", "never"],//these are your answer options - you can name and call them anything
          answertags:["always", "sometimes", "never"],//these are the tags that accompany the answer choice IF structured question is selected
          challengetag:"ycst015",//tag associated with the challenge
+         primarytag:"soc119"},//this should always be soc119
+		 //Stop Copying the Array Here
+		 
+		    //Start Copying the Array Here
+        {challengetype: "freeform",  // options are "freeform", "structured"
+         question:"Represent South Asian/Indian culture in a photo in a way that everyone would know what you mean.",
+         media:"image", //options are "image", "video", or "none" 
+         videosource:"//www.youtube.com/embed/JzOJ3GtfTgM",
+         imagesource:"http://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg", //image URLs go here
+         imagedescription:"indianflag", //this is the info that will accompany any photo
+         answers:["always", "sometimes", "never"],//these are your answer options - you can name and call them anything
+         answertags:["always", "sometimes", "never"],//these are the tags that accompany the answer choice IF structured question is selected
+         challengetag:"ycst016",//tag associated with the challenge
+         primarytag:"soc119"},//this should always be soc119
+		 //Stop Copying the Array Here
+		 
+		 
+		    //Start Copying the Array Here
+        {challengetype: "freeform",  // options are "freeform", "structured"
+         question:"What are some other phrases or cultural artifacts besides these that we could map? (Click on the image for directed web page.)",
+         media:"image", //options are "image", "video", or "none" 
+         videosource:"//www.youtube.com/embed/JzOJ3GtfTgM",
+         imagesource:"http://dots.physics.orst.edu/graphics/image_maps/usa_map.gif", //image URLs go here
+         imageurl:"http://www.buzzfeed.com/hillaryreinsberg/who-says-yall-and-10-other-maps-showing-where-americans-say",
+         imagedescription:"lingomap", //this is the info that will accompany any photo
+         answers:["always", "sometimes", "never"],//these are your answer options - you can name and call them anything
+         answertags:["always", "sometimes", "never"],//these are the tags that accompany the answer choice IF structured question is selected
+         challengetag:"ycst017",//tag associated with the challenge
+         primarytag:"soc119"},//this should always be soc119
+		 //Stop Copying the Array Here
+		 
+		 	    //Start Copying the Array Here
+        {challengetype: "freeform",  // options are "freeform", "structured"
+         question:"Find where you live on this map and take note of the lines of segregation or integration. Take a photo that illuminates what it was like to grow up in your neighborhood.(Click on the image for directed web page.)",
+         media:"image", //options are "image", "video", or "none" 
+         videosource:"//www.youtube.com/embed/JzOJ3GtfTgM",
+         imagesource:"http://3.bp.blogspot.com/-qB4WT_Hr3Q4/Uhc87F2BcEI/AAAAAAAAG54/Rgk4F073ySc/s1600/USA+Map.PNG", //image URLs go here
+         imageurl:"http://demographics.coopercenter.org/DotMap/index.html",
+         imagedescription:"racialdotmap", //this is the info that will accompany any photo
+         answers:["always", "sometimes", "never"],//these are your answer options - you can name and call them anything
+         answertags:["always", "sometimes", "never"],//these are the tags that accompany the answer choice IF structured question is selected
+         challengetag:"ycst018",//tag associated with the challenge
          primarytag:"soc119"},//this should always be soc119
 		 //Stop Copying the Array Here
          
