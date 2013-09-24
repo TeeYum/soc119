@@ -258,8 +258,7 @@
 		 
 		    //Start Copying the Array Here
         {challengetype: "freeform",  // options are "freeform", "structured"
-         question:"Do you have an idea that could make the world a better place? Ideas can range from improving our environment or our schools, or solving some problem that you see around you, or just some crazy business ideas. You make a video and then link to it. You could win $1,000 with a great idea. Pitch it at: www.1000pitches.com "
-",
+         question:"Do you have an idea that could make the world a better place? Ideas can range from improving our environment or our schools or solving some problem that you see around you, or just some crazy business ideas. You make a video and then link to it. You could win $1,000 with a great idea. Pitch it at: www.1000pitches.com",
          media:"image", //options are "image", "video", or "none" 
          videosource:"//www.youtube.com/embed/JzOJ3GtfTgM",
          imagesource:"http://s7.postimg.org/q2awovfd7/1000_Pitches_Jpeg.png", //image URLs go here
