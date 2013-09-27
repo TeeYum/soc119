@@ -268,5 +268,45 @@
          challengetag:"ycst019",//tag associated with the challenge
          primarytag:"soc119"},//this should always be soc119
 		 //Stop Copying the Array Here
+		 
+		 
+		    //Start Copying the Array Here
+        {challengetype: "freeform",  // options are "freeform", "structured"
+         question:"If you were given a choice to change your race for a day, what would you choose to do?",
+         media:"video", //options are "image", "video", or "none" 
+         videosource:"//www.youtube.com/embed/ri61lBfMBu0",
+         imagesource:"http://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg", //image URLs go here
+         imagedescription:"mj", //this is the info that will accompany any photo
+         answers:["always", "sometimes", "never"],//these are your answer options - you can name and call them anything
+         answertags:["always", "sometimes", "never"],//these are the tags that accompany the answer choice IF structured question is selected
+         challengetag:"ycst020",//tag associated with the challenge
+         primarytag:"soc119"},//this should always be soc119
+		 //Stop Copying the Array Here
+		 
+		  //Start Copying the Array Here
+        {challengetype: "freeform",  // options are "freeform", "structured"
+         question:"Tanning and lightening skin. What's it bring to mind?",
+         media:"image", //options are "image", "video", or "none" 
+         videosource:"//www.youtube.com/embed/JzOJ3GtfTgM",
+         imagesource:"http://2.bp.blogspot.com/-En5bxooFWWM/T6KvrZjjksI/AAAAAAAAAkU/VVryV_nid10/s1600/2058_1336041784.jpg", //image URLs go here
+         imagedescription:"ultimatetan", //this is the info that will accompany any photo
+         answers:["always", "sometimes", "never"],//these are your answer options - you can name and call them anything
+         answertags:["always", "sometimes", "never"],//these are the tags that accompany the answer choice IF structured question is selected
+         challengetag:"ycst021",//tag associated with the challenge
+         primarytag:"soc119"},//this should always be soc119
+		 //Stop Copying the Array Here
+		 
+		  //Start Copying the Array Here
+        {challengetype: "freeform",  // options are "freeform", "structured"
+         question:"Stop by a group meeting or the table/booth of an organization that you wouldn't normally be interested in and have a conversation for a few minutes, take a picture, tweet about it.",
+         media:"image", //options are "image", "video", or "none" 
+         videosource:"//www.youtube.com/embed/JzOJ3GtfTgM",
+         imagesource:"http://live.regnumchristi.org/wp-content/uploads/2012/02/conversation-1.jpg", //image URLs go here
+         imagedescription:"conversion", //this is the info that will accompany any photo
+         answers:["always", "sometimes", "never"],//these are your answer options - you can name and call them anything
+         answertags:["always", "sometimes", "never"],//these are the tags that accompany the answer choice IF structured question is selected
+         challengetag:"ycst022",//tag associated with the challenge
+         primarytag:"soc119"},//this should always be soc119
+		 //Stop Copying the Array Here
          
        ];
