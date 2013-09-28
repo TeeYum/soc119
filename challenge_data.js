@@ -324,7 +324,7 @@
 		 
 		 //Start Copying the Array Here
         {challengetype: "freeform",  // options are "freeform", "structured"
-         question:"What's it mean to be an "American""?",
+         question:"What's it mean to be an 'American''?",
          media:"none", //options are "image", "video", or "none" 
          videosource:"//www.youtube.com/embed/JzOJ3GtfTgM",
          imagesource:"http://www.g4tinkmagazine.org/wp-content/uploads/2012/05/truth.jpg", //image URLs go here
