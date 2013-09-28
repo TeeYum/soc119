@@ -23,7 +23,9 @@
           <p><strong>Challenge 20:</strong><a href="javascript:challengeNumber=20;build_challenge();close_panel()">If you were given a choice to change your race for a day, what would you choose to do?</a></p>
           <p><strong>Challenge 21:</strong><a href="javascript:challengeNumber=21;build_challenge();close_panel()">Tanning and lightening skin. What's it bring to mind?</a></p>
           <p><strong>Challenge 22:</strong><a href="javascript:challengeNumber=22;build_challenge();close_panel()">Stop by a group meeting or the table/booth of an organization that you wouldn't normally be interested in and have a conversation for a few minutes, take a picture, tweet about it.</a></p>
-          
+          <p><strong>Challenge 23:</strong><a href="javascript:challengeNumber=23;build_challenge();close_panel()">What was the most eye opening/truthful experience you've ever had?</a></p>
+          <p><strong>Challenge 24:</strong><a href="javascript:challengeNumber=24;build_challenge();close_panel()">What's it mean to be an "American"?</a></p>
+          <p><strong>Challenge 25:</strong><a href="javascript:challengeNumber=25;build_challenge();close_panel()">Find someone who you think is racially ambiguous and guess their ancestry.</a></p>
           
           
           
