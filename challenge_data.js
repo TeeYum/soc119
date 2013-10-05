@@ -1,5 +1,5 @@
       //     
-	  var challengeNumber = 29;
+	  var challengeNumber = 31;
 	 
 	  /* Challenge Variables */ 
       var challenge = [
@@ -397,6 +397,32 @@
          answers:["always", "sometimes", "never"],//these are your answer options - you can name and call them anything
          answertags:["always", "sometimes", "never"],//these are the tags that accompany the answer choice IF structured question is selected
          challengetag:"ycst029",//tag associated with the challenge
+         primarytag:"soc119"},//this should always be soc119
+		 //Stop Copying the Array Here
+		 
+		 //Start Copying the Array Here
+        {challengetype: "freeform",  // options are "freeform", "structured"
+         question:"Submit a photo of someone who is acting like a different culture than what they appear to be.",
+         media:"none", //options are "image", "video", or "none" 
+         videosource:"//www.youtube.com/embed/JzOJ3GtfTgM",
+         imagesource:"http://4.bp.blogspot.com/_K7q0QX9ib3s/TSXNAMF-xUI/AAAAAAAAD6U/EnptP8gh2x4/s1600/mixed.jpg", //image URLs go here
+         imagedescription:"differentculture", //this is the info that will accompany any photo
+         answers:["always", "sometimes", "never"],//these are your answer options - you can name and call them anything
+         answertags:["always", "sometimes", "never"],//these are the tags that accompany the answer choice IF structured question is selected
+         challengetag:"ycst030",//tag associated with the challenge
+         primarytag:"soc119"},//this should always be soc119
+		 //Stop Copying the Array Here
+		 
+		 //Start Copying the Array Here
+        {challengetype: "freeform",  // options are "freeform", "structured"
+         question:"Segregation in the Soc 119 class. WTF?",
+         media:"none", //options are "image", "video", or "none" 
+         videosource:"//www.youtube.com/embed/JzOJ3GtfTgM",
+         imagesource:"http://4.bp.blogspot.com/_K7q0QX9ib3s/TSXNAMF-xUI/AAAAAAAAD6U/EnptP8gh2x4/s1600/mixed.jpg", //image URLs go here
+         imagedescription:"segregation", //this is the info that will accompany any photo
+         answers:["always", "sometimes", "never"],//these are your answer options - you can name and call them anything
+         answertags:["always", "sometimes", "never"],//these are the tags that accompany the answer choice IF structured question is selected
+         challengetag:"ycst031",//tag associated with the challenge
          primarytag:"soc119"},//this should always be soc119
 		 //Stop Copying the Array Here
 		 
