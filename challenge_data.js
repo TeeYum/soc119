@@ -426,5 +426,45 @@
          primarytag:"soc119"},//this should always be soc119
 		 //Stop Copying the Array Here
 		 
+		  //Start Copying the Array Here
+        {challengetype: "freeform",  // options are "freeform", "structured"
+         question:"Take a photo with someone who looks like the 'future of the U.S.' according to this article.",
+         media:"image", //options are "image", "video", or "none" 
+         videosource:"//www.youtube.com/embed/JzOJ3GtfTgM",
+         imagesource:"http://i.imgur.com/QtTaq6y.png", //image URLs go here
+         imageurl:"http://www.huffingtonpost.com/2013/10/01/national-geographic-changing-face-of-america-photos_n_4024415.html",
+         imagedescription:"click", //this is the info that will accompany any photo
+         answers:["always", "sometimes", "never"],//these are your answer options - you can name and call them anything
+         answertags:["always", "sometimes", "never"],//these are the tags that accompany the answer choice IF structured question is selected
+         challengetag:"ycst032",//tag associated with the challenge
+         primarytag:"soc119"},//this should always be soc119
+		 //Stop Copying the Array Here
+		  
+		 //Start Copying the Array Here
+        {challengetype: "freeform",  // options are "freeform", "structured"
+         question:"Way in which where YOU grew up has had an effect on how you interact with race and racism?",
+         media:"none", //options are "image", "video", or "none" 
+         videosource:"//www.youtube.com/embed/JzOJ3GtfTgM",
+         imagesource:"http://4.bp.blogspot.com/_K7q0QX9ib3s/TSXNAMF-xUI/AAAAAAAAD6U/EnptP8gh2x4/s1600/mixed.jpg", //image URLs go here
+         imagedescription:"na", //this is the info that will accompany any photo
+         answers:["always", "sometimes", "never"],//these are your answer options - you can name and call them anything
+         answertags:["always", "sometimes", "never"],//these are the tags that accompany the answer choice IF structured question is selected
+         challengetag:"ycst033",//tag associated with the challenge
+         primarytag:"soc119"},//this should always be soc119
+		 //Stop Copying the Array Here
+		 
+		 //Start Copying the Array Here
+        {challengetype: "freeform",  // options are "freeform", "structured"
+         question:"Find or take a photo of someone who you think perfectly reflects the average member of some ancestry or cultural group.",
+         media:"none", //options are "image", "video", or "none" 
+         videosource:"//www.youtube.com/embed/JzOJ3GtfTgM",
+         imagesource:"http://4.bp.blogspot.com/_K7q0QX9ib3s/TSXNAMF-xUI/AAAAAAAAD6U/EnptP8gh2x4/s1600/mixed.jpg", //image URLs go here
+         imagedescription:"na", //this is the info that will accompany any photo
+         answers:["always", "sometimes", "never"],//these are your answer options - you can name and call them anything
+         answertags:["always", "sometimes", "never"],//these are the tags that accompany the answer choice IF structured question is selected
+         challengetag:"ycst034",//tag associated with the challenge
+         primarytag:"soc119"},//this should always be soc119
+		 //Stop Copying the Array Here
+		 
          
        ];
