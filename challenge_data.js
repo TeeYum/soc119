@@ -1,5 +1,5 @@
       //     
-	  var challengeNumber = 35;
+	  var challengeNumber = 36;
 	 
 	  /* Challenge Variables */ 
       var challenge = [
@@ -466,9 +466,10 @@
          primarytag:"soc119"},//this should always be soc119
 		 //Stop Copying the Array Here
 		 
-		 //Start Copying the Array Here
+		 
+		  //Start Copying the Array Here
         {challengetype: "freeform",  // options are "freeform", "structured"
-         question:"What would you like to say to someone in the ‘one percent’?",
+         question:"Your image of the American Dream.",
          media:"none", //options are "image", "video", or "none" 
          videosource:"//www.youtube.com/embed/JzOJ3GtfTgM",
          imagesource:"http://4.bp.blogspot.com/_K7q0QX9ib3s/TSXNAMF-xUI/AAAAAAAAD6U/EnptP8gh2x4/s1600/mixed.jpg", //image URLs go here
@@ -476,6 +477,19 @@
          answers:["always", "sometimes", "never"],//these are your answer options - you can name and call them anything
          answertags:["always", "sometimes", "never"],//these are the tags that accompany the answer choice IF structured question is selected
          challengetag:"ycst035",//tag associated with the challenge
+         primarytag:"soc119"},//this should always be soc119
+		 //Stop Copying the Array Here
+		 
+		  //Start Copying the Array Here
+        {challengetype: "freeform",  // options are "freeform", "structured"
+         question:"Who are you ... in one photo?",
+         media:"image", //options are "image", "video", or "none" 
+         videosource:"//www.youtube.com/embed/JzOJ3GtfTgM",
+         imagesource:"http://www.mom-psych.com/Images/WhoAmI.jpg", //image URLs go here
+         imagedescription:"fingerprint", //this is the info that will accompany any photo
+         answers:["always", "sometimes", "never"],//these are your answer options - you can name and call them anything
+         answertags:["always", "sometimes", "never"],//these are the tags that accompany the answer choice IF structured question is selected
+         challengetag:"ycst036",//tag associated with the challenge
          primarytag:"soc119"},//this should always be soc119
 		 //Stop Copying the Array Here
 		 
