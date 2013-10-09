@@ -37,7 +37,7 @@
           <p><strong>Challenge 34:</strong><a href="javascript:challengeNumber=34;build_challenge();close_panel()">Find or take a photo of someone who you think perfectly reflects the average member of some ancestry or cultural group.</a></p>
           <p><strong>Challenge 35:</strong><a href="javascript:challengeNumber=35;build_challenge();close_panel()">Your image of the American Dream.</a></p>
           <p><strong>Challenge 36:</strong><a href="javascript:challengeNumber=36;build_challenge();close_panel()">Who are you ... in one photo?</a></p>
-         
+          <p style="color:#FF0000"><strong>Challenge 37:</strong><a href="javascript:challengeNumber=37;build_challenge();close_panel()">What would you like to say to someone in the ‘one percent’?</a></p>
           
           
           
