@@ -508,7 +508,7 @@
 		 
 		 //Start Copying the Array Here
         {challengetype: "freeform",  // options are "freeform", "structured"
-         question:"Stereotypes you see as being totally percent accurate.",
+         question:"Stereotypes you see as being totally 100 percent accurate.",
          media:"none", //options are "image", "video", or "none" 
          videosource:"//www.youtube.com/embed/JzOJ3GtfTgM",
          imagesource:"http://4.bp.blogspot.com/_K7q0QX9ib3s/TSXNAMF-xUI/AAAAAAAAD6U/EnptP8gh2x4/s1600/mixed.jpg", //image URLs go here
