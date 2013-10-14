@@ -167,7 +167,7 @@
          question:"Where do you feel most safe?",
          media:"image", //options are "image", "video", or "none" 
          videosource:"//www.yourvideoembedlinkhere.com",
-         imagesource:"http://www.advicehow.com/wp-content/uploads/2012/06/Saftey-Net-Profiles-Google-Analytics.jpg", //image URLs go here
+         imagesource:"http://1.bp.blogspot.com/-2DeQLsAJllA/UBaYgcsz24I/AAAAAAAAEEA/YOuTVY7r23A/s1600/safety.jpg", //image URLs go here
          imagedescription:"safety", //this is the info that will accompany any photo
          answers:["always", "sometimes", "never"],//these are your answer options - you can name and call them anything
          answertags:["always", "sometimes", "never"],//these are the tags that accompany the answer choice IF structured question is selected
