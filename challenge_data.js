@@ -704,7 +704,7 @@
 		 
 		  //Start Copying the Array Here
         {challengetype: "freeform",  // options are "freeform", "structured"
-         question:"What do these two stories have in common?<br>Links:<br/><br>http://edition.cnn.com/2013/09/29/world/meast/saudi-arabia-women-driving-cleric/<br/><br>http://edition.cnn.com/2013/10/30/world/asia/china-female-drivers/index.html?hpt=hp_t3<br/>",
+         question:"What do these two stories have in common? %0D%0A Links: %0D%0A http://edition.cnn.com/2013/09/29/world/meast/saudi-arabia-women-driving-cleric/ %0D%0A http://edition.cnn.com/2013/10/30/world/asia/china-female-drivers/index.html?hpt=hp_t3",
          media:"image", //options are "image", "video", or "none" 
          videosource:"//www.youtube.com/embed/JzOJ3GtfTgM",
          imagesource:"http://i2.cdn.turner.com/cnn/dam/assets/131030044201-china-car-driver-story-top.jpg", //image URLs go here
