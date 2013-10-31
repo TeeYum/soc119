@@ -725,7 +725,7 @@
          imagedescription:"na", //this is the info that will accompany any photo
          answers:["always", "sometimes", "never"],//these are your answer options - you can name and call them anything
          answertags:["always", "sometimes", "never"],//these are the tags that accompany the answer choice IF structured question is selected
-         challengetag:"ycst54,//tag associated with the challenge
+         challengetag:"ycst54",//tag associated with the challenge
          primarytag:"soc119"},//this should always be soc119
 		 //Stop Copying the Array Here
 		 
