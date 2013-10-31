@@ -1,5 +1,5 @@
       //     
-	  var challengeNumber = 47;
+	  var challengeNumber = 53;
 	 
 	  /* Challenge Variables */ 
       var challenge = [
@@ -699,6 +699,33 @@
          answers:["always", "sometimes", "never"],//these are your answer options - you can name and call them anything
          answertags:["always", "sometimes", "never"],//these are the tags that accompany the answer choice IF structured question is selected
          challengetag:"ycst052",//tag associated with the challenge
+         primarytag:"soc119"},//this should always be soc119
+		 //Stop Copying the Array Here
+		 
+		  //Start Copying the Array Here
+        {challengetype: "freeform",  // options are "freeform", "structured"
+         question:"What do these two stories have in common?<br>Links:<br>http://edition.cnn.com/2013/09/29/world/meast/saudi-arabia-women-driving-cleric/<br>http://edition.cnn.com/2013/10/30/world/asia/china-female-drivers/index.html?hpt=hp_t3<br>",
+         media:"image", //options are "image", "video", or "none" 
+         videosource:"//www.youtube.com/embed/JzOJ3GtfTgM",
+         imagesource:"http://i2.cdn.turner.com/cnn/dam/assets/131030044201-china-car-driver-story-top.jpg", //image URLs go here
+         imagedescription:"womandog", //this is the info that will accompany any photo
+         answers:["always", "sometimes", "never"],//these are your answer options - you can name and call them anything
+         answertags:["always", "sometimes", "never"],//these are the tags that accompany the answer choice IF structured question is selected
+         challengetag:"ycst053",//tag associated with the challenge
+         primarytag:"soc119"},//this should always be soc119
+		 //Stop Copying the Array Here
+		 
+		  //Start Copying the Array Here
+        {challengetype: "freeform",  // options are "freeform", "structured"
+         question:"Sit in the middle of this moral and political issue. What do you see?c",
+         media:"none", //options are "image", "video", or "none" 
+         videosource:"//www.youtube.com/embed/JzOJ3GtfTgM",
+         imagesource:"http://i.imgur.com/d4o2fhg.png?1", //image URLs go here
+         imageurl:"http://edition.cnn.com/2013/10/30/opinion/europe-immigration-outsiders/index.html?hpt=hp_t5",
+         imagedescription:"na", //this is the info that will accompany any photo
+         answers:["always", "sometimes", "never"],//these are your answer options - you can name and call them anything
+         answertags:["always", "sometimes", "never"],//these are the tags that accompany the answer choice IF structured question is selected
+         challengetag:"ycst54,//tag associated with the challenge
          primarytag:"soc119"},//this should always be soc119
 		 //Stop Copying the Array Here
 		 
