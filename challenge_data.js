@@ -717,8 +717,8 @@
 		 
 		  //Start Copying the Array Here
         {challengetype: "freeform",  // options are "freeform", "structured"
-         question:"Sit in the middle of this moral and political issue. What do you see?c",
-         media:"none", //options are "image", "video", or "none" 
+         question:"Sit in the middle of this moral and political issue. What do you see?",
+         media:"image", //options are "image", "video", or "none" 
          videosource:"//www.youtube.com/embed/JzOJ3GtfTgM",
          imagesource:"http://i.imgur.com/d4o2fhg.png?1", //image URLs go here
          imageurl:"http://edition.cnn.com/2013/10/30/opinion/europe-immigration-outsiders/index.html?hpt=hp_t5",
