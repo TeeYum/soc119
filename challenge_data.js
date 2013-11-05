@@ -795,5 +795,18 @@
          primarytag:"soc119"},//this should always be soc119
 		 //Stop Copying the Array Here
 		 
+		 	 //Start Copying the Array Here
+        {challengetype: "freeform",  // options are "freeform", "structured"
+         question:"Use your best empathic skills and put yourself in one of these jobs. (go through the photos)",
+         media:"image", //options are "image", "video", or "none" 
+         videosource:"//www.youtube.com/embed/JzOJ3GtfTgM",
+         imagesource:"http://i.imgur.com/d4o2fhg.png?1", //image URLs go here
+         imageurl:"http://www.takepart.com/photos/china-toy-factory-michael-wolf/wolf5?cmpid=tp-ad-outbrain-general",
+         imagedescription:"na", //this is the info that will accompany any photo
+         answers:["always", "sometimes", "never"],//these are your answer options - you can name and call them anything
+         answertags:["always", "sometimes", "never"],//these are the tags that accompany the answer choice IF structured question is selected
+         challengetag:"ycst060",//tag associated with the challenge
+         primarytag:"soc119"},//this should always be soc119
+		 //Stop Copying the Array Here
          
        ];
