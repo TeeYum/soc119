@@ -1,5 +1,5 @@
       //     
-	  var challengeNumber = 61;
+	  var challengeNumber = 68;
 	 
 	  /* Challenge Variables */ 
       var challenge = [
@@ -901,6 +901,59 @@
          primarytag:"soc119"},//this should always be soc119
 		 //Stop Copying the Array Here
 		 
+		  //Start Copying the Array Here
+        {challengetype: "freeform",  // options are "freeform", "structured"
+         question:"What is one think that immigrants have brought to your life and for which you are thankful?",
+         media:"none", //options are "image", "video", or "none" 
+         videosource:"//www.youtube.com/embed/JzOJ3GtfTgM",
+         imagesource:"http://i.imgur.com/UCKRgvG.png?1", //image URLs go here
+         imagedescription:"na", //this is the info that will accompany any photo
+         answers:["always", "sometimes", "never"],//these are your answer options - you can name and call them anything
+         answertags:["always", "sometimes", "never"],//these are the tags that accompany the answer choice IF structured question is selected
+         challengetag:"ycst067",//tag associated with the challenge
+         primarytag:"soc119"},//this should always be soc119
+		 //Stop Copying the Array Here
+		 
+		  //Start Copying the Array Here
+        {challengetype: "freeform",  // options are "freeform", "structured"
+         question:"Take a video of yourself talking in a way that depicts another racial or ancestry group.",
+         media:"none", //options are "image", "video", or "none" 
+         videosource:"//www.youtube.com/embed/JzOJ3GtfTgM",
+         imagesource:"http://i.imgur.com/UCKRgvG.png?1", //image URLs go here
+         imagedescription:"na", //this is the info that will accompany any photo
+         answers:["always", "sometimes", "never"],//these are your answer options - you can name and call them anything
+         answertags:["always", "sometimes", "never"],//these are the tags that accompany the answer choice IF structured question is selected
+         challengetag:"ycst068",//tag associated with the challenge
+         primarytag:"soc119"},//this should always be soc119
+		 //Stop Copying the Array Here
+		 
+		 //Start Copying the Array Here
+        {challengetype: "freeform",  // options are "freeform", "structured"
+         question:"Take a photo of someone you know is an immigrant just by looking at them. What is the tip off for you?",
+         media:"none", //options are "image", "video", or "none" 
+         videosource:"//www.youtube.com/embed/JzOJ3GtfTgM",
+         imagesource:"http://i.imgur.com/UCKRgvG.png?1", //image URLs go here
+         imagedescription:"na", //this is the info that will accompany any photo
+         answers:["always", "sometimes", "never"],//these are your answer options - you can name and call them anything
+         answertags:["always", "sometimes", "never"],//these are the tags that accompany the answer choice IF structured question is selected
+         challengetag:"ycst069",//tag associated with the challenge
+         primarytag:"soc119"},//this should always be soc119
+		 //Stop Copying the Array Here
+		 
+		 //Start Copying the Array Here
+        {challengetype: "freeform",  // options are "freeform", "structured"
+         question:"Photo of a stereotype about the United State that is actually quite true.",
+         media:"none", //options are "image", "video", or "none" 
+         videosource:"//www.youtube.com/embed/JzOJ3GtfTgM",
+         imagesource:"http://i.imgur.com/UCKRgvG.png?1", //image URLs go here
+         imagedescription:"na", //this is the info that will accompany any photo
+         answers:["always", "sometimes", "never"],//these are your answer options - you can name and call them anything
+         answertags:["always", "sometimes", "never"],//these are the tags that accompany the answer choice IF structured question is selected
+         challengetag:"ycst070",//tag associated with the challenge
+         primarytag:"soc119"},//this should always be soc119
+		 //Stop Copying the Array Here
+		 
+		
 		 
          
        ];
