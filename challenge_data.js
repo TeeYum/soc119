@@ -953,6 +953,18 @@
          primarytag:"soc119"},//this should always be soc119
 		 //Stop Copying the Array Here
 		 
+		 //Start Copying the Array Here
+        {challengetype: "freeform",  // options are "freeform", "structured"
+         question:"What would you do?",
+         media:"video", //options are "image", "video", or "none" 
+         videosource:"//www.youtube.com/embed/OghL84kBrPk",
+         imagesource:"http://i.imgur.com/UCKRgvG.png?1", //image URLs go here
+         imagedescription:"na", //this is the info that will accompany any photo
+         answers:["always", "sometimes", "never"],//these are your answer options - you can name and call them anything
+         answertags:["always", "sometimes", "never"],//these are the tags that accompany the answer choice IF structured question is selected
+         challengetag:"ycst072",//tag associated with the challenge
+         primarytag:"soc119"},//this should always be soc119
+		 //Stop Copying the Array Here
 		
 		 
          
