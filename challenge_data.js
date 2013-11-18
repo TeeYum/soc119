@@ -1,5 +1,5 @@
       //     
-	  var challengeNumber = 69;
+	  var challengeNumber = 80;
 	 
 	  /* Challenge Variables */ 
       var challenge = [
@@ -965,7 +965,124 @@
          challengetag:"ycst072",//tag associated with the challenge
          primarytag:"soc119"},//this should always be soc119
 		 //Stop Copying the Array Here
-		
 		 
+		 //Start Copying the Array Here
+        {challengetype: "freeform",  // options are "freeform", "structured"
+         question:"Read through the comments. What would you add?",
+         media:"image", //options are "image", "video", or "none" 
+         videosource:"//www.youtube.com/embed/JzOJ3GtfTgM",
+         imagesource:"http://i.imgur.com/d4o2fhg.png?1", //image URLs go here
+         imageurl:"http://www.latimes.com/books/jacketcopy/la-et-jc-library-users-should-go-back-to-mexico-says-official-who-wants-to-divert-library-funds-to-jails-20131114,0,7474904.story#axzz2kgma5F99",
+         imagedescription:"na", //this is the info that will accompany any photo
+         answers:["always", "sometimes", "never"],//these are your answer options - you can name and call them anything
+         answertags:["always", "sometimes", "never"],//these are the tags that accompany the answer choice IF structured question is selected
+         challengetag:"ycst073",//tag associated with the challenge
+         primarytag:"soc119"},//this should always be soc119
+		 //Stop Copying the Array Here
+		
+		 //Start Copying the Array Here
+        {challengetype: "freeform",  // options are "freeform", "structured"
+         question:"What would you <q>pray</q> for at this temple?",
+         media:"image", //options are "image", "video", or "none" 
+         videosource:"//www.youtube.com/embed/JzOJ3GtfTgM",
+         imagesource:"http://i.imgur.com/d4o2fhg.png?1", //image URLs go here
+         imageurl:"http://www.huffingtonpost.com/2013/11/17/virat-ramayan-mandir_n_4269863.html",
+         imagedescription:"na", //this is the info that will accompany any photo
+         answers:["always", "sometimes", "never"],//these are your answer options - you can name and call them anything
+         answertags:["always", "sometimes", "never"],//these are the tags that accompany the answer choice IF structured question is selected
+         challengetag:"ycst074",//tag associated with the challenge
+         primarytag:"soc119"},//this should always be soc119
+		 //Stop Copying the Array Here
+		 
+		  //Start Copying the Array Here
+        {challengetype: "freeform",  // options are "freeform", "structured"
+         question:"What could lead you to risk your life to come to the U.S. to do low paying work?",
+         media:"none", //options are "image", "video", or "none" 
+         videosource:"//www.youtube.com/embed/JzOJ3GtfTgM",
+         imagesource:"http://i.imgur.com/UCKRgvG.png?1", //image URLs go here
+         imagedescription:"na", //this is the info that will accompany any photo
+         answers:["always", "sometimes", "never"],//these are your answer options - you can name and call them anything
+         answertags:["always", "sometimes", "never"],//these are the tags that accompany the answer choice IF structured question is selected
+         challengetag:"ycst075",//tag associated with the challenge
+         primarytag:"soc119"},//this should always be soc119
+		 //Stop Copying the Array Here
+		 
+		  //Start Copying the Array Here
+        {challengetype: "freeform",  // options are "freeform", "structured"
+         question:"Think of the stereotypes that you had of Sam on the first day of class. What about them are true?",
+         media:"none", //options are "image", "video", or "none" 
+         videosource:"//www.youtube.com/embed/JzOJ3GtfTgM",
+         imagesource:"http://i.imgur.com/UCKRgvG.png?1", //image URLs go here
+         imagedescription:"na", //this is the info that will accompany any photo
+         answers:["always", "sometimes", "never"],//these are your answer options - you can name and call them anything
+         answertags:["always", "sometimes", "never"],//these are the tags that accompany the answer choice IF structured question is selected
+         challengetag:"ycst076",//tag associated with the challenge
+         primarytag:"soc119"},//this should always be soc119
+		 //Stop Copying the Array Here
+		 
+		  //Start Copying the Array Here
+        {challengetype: "freeform",  // options are "freeform", "structured"
+         question:"Show us your close friends who are NOT in your racial or ethnic group?",
+         media:"none", //options are "image", "video", or "none" 
+         videosource:"//www.youtube.com/embed/JzOJ3GtfTgM",
+         imagesource:"http://i.imgur.com/UCKRgvG.png?1", //image URLs go here
+         imagedescription:"na", //this is the info that will accompany any photo
+         answers:["always", "sometimes", "never"],//these are your answer options - you can name and call them anything
+         answertags:["always", "sometimes", "never"],//these are the tags that accompany the answer choice IF structured question is selected
+         challengetag:"ycst077",//tag associated with the challenge
+         primarytag:"soc119"},//this should always be soc119
+		 //Stop Copying the Array Here
+		 
+		  //Start Copying the Array Here
+        {challengetype: "freeform",  // options are "freeform", "structured"
+         question:"What is the most derogatory word or phrase you hear stated by people? What makes it derogatory to you?",
+         media:"none", //options are "image", "video", or "none" 
+         videosource:"//www.youtube.com/embed/JzOJ3GtfTgM",
+         imagesource:"http://i.imgur.com/UCKRgvG.png?1", //image URLs go here
+         imagedescription:"na", //this is the info that will accompany any photo
+         answers:["always", "sometimes", "never"],//these are your answer options - you can name and call them anything
+         answertags:["always", "sometimes", "never"],//these are the tags that accompany the answer choice IF structured question is selected
+         challengetag:"ycst078",//tag associated with the challenge
+         primarytag:"soc119"},//this should always be soc119
+		 //Stop Copying the Array Here
+		 
+		  //Start Copying the Array Here
+        {challengetype: "freeform",  // options are "freeform", "structured"
+         question:"What's a single experience that forced you to reconsider your racial identity?",
+         media:"none", //options are "image", "video", or "none" 
+         videosource:"//www.youtube.com/embed/JzOJ3GtfTgM",
+         imagesource:"http://i.imgur.com/UCKRgvG.png?1", //image URLs go here
+         imagedescription:"na", //this is the info that will accompany any photo
+         answers:["always", "sometimes", "never"],//these are your answer options - you can name and call them anything
+         answertags:["always", "sometimes", "never"],//these are the tags that accompany the answer choice IF structured question is selected
+         challengetag:"ycst079",//tag associated with the challenge
+         primarytag:"soc119"},//this should always be soc119
+		 //Stop Copying the Array Here
+		 
+		  //Start Copying the Array Here
+        {challengetype: "freeform",  // options are "freeform", "structured"
+         question:"Show us which racial identity development stage you are at in a single photo.",
+         media:"none", //options are "image", "video", or "none" 
+         videosource:"//www.youtube.com/embed/JzOJ3GtfTgM",
+         imagesource:"http://i.imgur.com/UCKRgvG.png?1", //image URLs go here
+         imagedescription:"na", //this is the info that will accompany any photo
+         answers:["always", "sometimes", "never"],//these are your answer options - you can name and call them anything
+         answertags:["always", "sometimes", "never"],//these are the tags that accompany the answer choice IF structured question is selected
+         challengetag:"ycst080",//tag associated with the challenge
+         primarytag:"soc119"},//this should always be soc119
+		 //Stop Copying the Array Here
+		 
+		  //Start Copying the Array Here
+        {challengetype: "freeform",  // options are "freeform", "structured"
+         question:"Show us how you define <q>terrorism</q>.,
+         media:"none", //options are "image", "video", or "none" 
+         videosource:"//www.youtube.com/embed/JzOJ3GtfTgM",
+         imagesource:"http://i.imgur.com/UCKRgvG.png?1", //image URLs go here
+         imagedescription:"na", //this is the info that will accompany any photo
+         answers:["always", "sometimes", "never"],//these are your answer options - you can name and call them anything
+         answertags:["always", "sometimes", "never"],//these are the tags that accompany the answer choice IF structured question is selected
+         challengetag:"ycst081",//tag associated with the challenge
+         primarytag:"soc119"},//this should always be soc119
+		 //Stop Copying the Array Here
          
        ];
