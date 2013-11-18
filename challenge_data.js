@@ -1074,7 +1074,7 @@
 		 
 		  //Start Copying the Array Here
         {challengetype: "freeform",  // options are "freeform", "structured"
-         question:"Show us how you define <q>terrorism</q>.,
+         question:"Show us how you define <q>terrorism</q>.",
          media:"none", //options are "image", "video", or "none" 
          videosource:"//www.youtube.com/embed/JzOJ3GtfTgM",
          imagesource:"http://i.imgur.com/UCKRgvG.png?1", //image URLs go here
