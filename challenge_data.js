@@ -1147,7 +1147,7 @@
          answers:["always", "sometimes", "never"],//these are your answer options - you can name and call them anything
          answertags:["always", "sometimes", "never"],//these are the tags that accompany the answer choice IF structured question is selected
          challengetag:"ycst086",//tag associated with the challenge
-         primarytag:"soc119"},//this should always be soc119
+         primarytag:"soc119"},//this should always be soc119 
 		 //Stop Copying the Array Here
 		 
 		 //Start Copying the Array Here
