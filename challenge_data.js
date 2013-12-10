@@ -1,5 +1,5 @@
       //     
-	  var challengeNumber = 85;
+	  var challengeNumber = 90;
 	 
 	  /* Challenge Variables */ 
       var challenge = [
@@ -1161,6 +1161,74 @@
          answertags:["always", "sometimes", "never"],//these are the tags that accompany the answer choice IF structured question is selected
          challengetag:"ycst087",//tag associated with the challenge
          primarytag:"soc119"},//this should always be soc119
+		 //Stop Copying the Array Here
+		 
+		  //Start Copying the Array Here
+        {challengetype: "freeform",  // options are "freeform", "structured"
+         question:"Look at this graphic. What do you think about how In Mississippi, there are 50 percent more Google searches asking, “Is my husband gay?” than in Rhode Island. Miss is the least tolerant state; RI is the most tolerant. ",
+         media:"image", //options are "image", "video", or "none" 
+         videosource:"//www.youtube.com/embed/JzOJ3GtfTgM",
+         imagesource:"http://i.imgur.com/d4o2fhg.png?1", //image URLs go here
+         imageurl:"http://www.nytimes.com/interactive/2013/12/08/sunday-review/where-the-closet-is-still-common.html?ref=sunday&_r=0",
+         imagedescription:"na", //this is the info that will accompany any photo
+         answers:["always", "sometimes", "never"],//these are your answer options - you can name and call them anything
+         answertags:["always", "sometimes", "never"],//these are the tags that accompany the answer choice IF structured question is selected
+         challengetag:"ycst088",//tag associated with the challenge
+         primarytag:"soc119"},//this should always be soc119
+		 //Stop Copying the Array Here
+		 
+		  //Start Copying the Array Here
+        {challengetype: "freeform",  // options are "freeform", "structured"
+         question:"Give us some feedback on how you're thinking about the future.",
+         media:"image", //options are "image", "video", or "none" 
+         videosource:"//www.youtube.com/embed/JzOJ3GtfTgM",
+         imagesource:"http://i.imgur.com/d4o2fhg.png?1", //image URLs go here
+         imageurl:"http://www.huffingtonpost.com/2013/12/08/arctic-ice-melt-study_n_4408844.html",
+         imagedescription:"na", //this is the info that will accompany any photo
+         answers:["always", "sometimes", "never"],//these are your answer options - you can name and call them anything
+         answertags:["always", "sometimes", "never"],//these are the tags that accompany the answer choice IF structured question is selected
+         challengetag:"ycst089",//tag associated with the challenge
+         primarytag:"soc119"},//this should always be soc119
+		 //Stop Copying the Array Here
+		 
+		 //Start Copying the Array Here
+        {challengetype: "freeform",  // options are "freeform", "structured"
+         question:"Your reaction to the Christian Invaders lecture.,
+         media:"video", //options are "image", "video", or "none" 
+         videosource:"//www.youtube.com/embed/brTiO6dtGnQ",
+         imagesource:"http://i.imgur.com/d4o2fhg.png?1", //image URLs go here
+         imageurl:"http://www.huffingtonpost.com/2013/12/08/arctic-ice-melt-study_n_4408844.html",
+         imagedescription:"na", //this is the info that will accompany any photo
+         answers:["always", "sometimes", "never"],//these are your answer options - you can name and call them anything
+         answertags:["always", "sometimes", "never"],//these are the tags that accompany the answer choice IF structured question is selected
+         challengetag:"ycst90",//tag associated with the challenge
+         primarytag:"soc119"},//this should always be soc119
+		 //Stop Copying the Array Here
+		 
+		 //Start Copying the Array Here
+        {challengetype: "freeform",  // options are "freeform", "structured"
+         question:"What are your final impressions of the course?",
+         media:"none", //options are "image", "video", or "none" 
+         videosource:"//www.youtube.com/embed/JzOJ3GtfTgM",
+         imagesource:"http://i.imgur.com/UCKRgvG.png?1", //image URLs go here
+         imagedescription:"na", //this is the info that will accompany any photo
+         answers:["always", "sometimes", "never"],//these are your answer options - you can name and call them anything
+         answertags:["always", "sometimes", "never"],//these are the tags that accompany the answer choice IF structured question is selected
+         challengetag:"ycst091",//tag associated with the challenge
+         primarytag:"soc119"},//this should always be soc119 
+		 //Stop Copying the Array Here
+		 
+		 //Start Copying the Array Here
+        {challengetype: "freeform",  // options are "freeform", "structured"
+         question:"What issue/topic from Soc 119 surprised you?",
+         media:"none", //options are "image", "video", or "none" 
+         videosource:"//www.youtube.com/embed/JzOJ3GtfTgM",
+         imagesource:"http://i.imgur.com/UCKRgvG.png?1", //image URLs go here
+         imagedescription:"na", //this is the info that will accompany any photo
+         answers:["always", "sometimes", "never"],//these are your answer options - you can name and call them anything
+         answertags:["always", "sometimes", "never"],//these are the tags that accompany the answer choice IF structured question is selected
+         challengetag:"ycst092",//tag associated with the challenge
+         primarytag:"soc119"},//this should always be soc119 
 		 //Stop Copying the Array Here
          
        ];
