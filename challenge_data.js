@@ -1193,11 +1193,10 @@
 		 
 		 //Start Copying the Array Here
         {challengetype: "freeform",  // options are "freeform", "structured"
-         question:"Your reaction to the Christian Invaders lecture.,
+         question:"Your reaction to the Christian Invaders lecture.",
          media:"video", //options are "image", "video", or "none" 
          videosource:"//www.youtube.com/embed/brTiO6dtGnQ",
          imagesource:"http://i.imgur.com/d4o2fhg.png?1", //image URLs go here
-         imageurl:"http://www.huffingtonpost.com/2013/12/08/arctic-ice-melt-study_n_4408844.html",
          imagedescription:"na", //this is the info that will accompany any photo
          answers:["always", "sometimes", "never"],//these are your answer options - you can name and call them anything
          answertags:["always", "sometimes", "never"],//these are the tags that accompany the answer choice IF structured question is selected
