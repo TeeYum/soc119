@@ -1,5 +1,5 @@
       //     
-	  var challengeNumber = 90;
+	  var challengeNumber = 94;
 	 
 	  /* Challenge Variables */ 
       var challenge = [
@@ -1229,5 +1229,46 @@
          challengetag:"ycst092",//tag associated with the challenge
          primarytag:"soc119"},//this should always be soc119 
 		 //Stop Copying the Array Here
+		 
+		 //Start Copying the Array Here
+        {challengetype: "freeform",  // options are "freeform", "structured"
+         question:"Take this quiz. Are you smarter than a chimp?",
+         media:"image", //options are "image", "video", or "none" 
+         videosource:"//www.youtube.com/embed/JzOJ3GtfTgM",
+         imagesource:"http://i.imgur.com/d4o2fhg.png?1", //image URLs go here
+         imageurl:"http://www.cnn.com/2013/12/10/world/gapminder-us-ignorance-survey/index.html?hpt=hp_t3",
+         imagedescription:"na", //this is the info that will accompany any photo
+         answers:["always", "sometimes", "never"],//these are your answer options - you can name and call them anything
+         answertags:["always", "sometimes", "never"],//these are the tags that accompany the answer choice IF structured question is selected
+         challengetag:"ycst093",//tag associated with the challenge
+         primarytag:"soc119"},//this should always be soc119 
+		 //Stop Copying the Array Here
+		 
+		 //Start Copying the Array Here
+        {challengetype: "freeform",  // options are "freeform", "structured"
+         question:"Fundamental takeaway from the Needy Penis lecture.",
+         media:"image", //options are "image", "video", or "none" 
+         videosource:"//www.youtube.com/embed/JzOJ3GtfTgM",
+         imagesource:"http://i.imgur.com/LzukmMU.png?1", //image URLs go here
+         imagedescription:"needypennis", //this is the info that will accompany any photo
+         answers:["always", "sometimes", "never"],//these are your answer options - you can name and call them anything
+         answertags:["always", "sometimes", "never"],//these are the tags that accompany the answer choice IF structured question is selected
+         challengetag:"ycst094",//tag associated with the challenge
+         primarytag:"soc119"},//this should always be soc119 
+		 //Stop Copying the Array Here
+		 
+		 //Start Copying the Array Here
+        {challengetype: "freeform",  // options are "freeform", "structured"
+         question:"Any thoughts on these different messages?",
+         media:"image", //options are "image", "video", or "none" 
+         videosource:"//www.youtube.com/embed/JzOJ3GtfTgM",
+         imagesource:"http://i.imgur.com/bOae2TT.jpg?1", //image URLs go here
+         imagedescription:"na", //this is the info that will accompany any photo
+         answers:["always", "sometimes", "never"],//these are your answer options - you can name and call them anything
+         answertags:["always", "sometimes", "never"],//these are the tags that accompany the answer choice IF structured question is selected
+         challengetag:"ycst095",//tag associated with the challenge
+         primarytag:"soc119"},//this should always be soc119 
+		 //Stop Copying the Array Here
+         
          
        ];
